@@ -1,1 +1,1 @@
-web: gunicorn 'name-of-hotwheels.wsgi'
+web: gunicorn 'hotwheels.wsgi'
