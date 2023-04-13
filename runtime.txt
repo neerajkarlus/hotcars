@@ -1,1 +1,7 @@
 Python-3.8.10
+libgl1
+freeglut3-dev
+libgtk2.0-dev
+Django
+gunicorn
+psycopg2-binary
