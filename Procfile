@@ -1,1 +1,1 @@
-web: gunicorn 'hotwheels.wsgi'
+web: python manage.py migrate && gunicorn hotwheels.wsgi
